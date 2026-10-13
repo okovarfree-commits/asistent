@@ -1,0 +1,14 @@
+{
+  "name": "Akupunkturní atlas",
+  "short_name": "Akupunktura",
+  "description": "Interaktivní atlas akupunkturních bodů v češtině.",
+  "lang": "cs",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9efec",
+  "theme_color": "#1e5c50",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
